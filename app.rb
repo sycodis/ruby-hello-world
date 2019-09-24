@@ -31,7 +31,7 @@ configure do
 end
 
 get '/' do
-  puts "Nouveau texte entre par moi ..."
+  puts "Nouveau text entre par moi ..."
   erb :main
 end
 

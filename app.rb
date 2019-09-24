@@ -31,7 +31,7 @@ configure do
 end
 
 get '/' do
-  puts "Servicing index request..."
+  puts "Nouveau texte entre par moi ..."
   erb :main
 end
 
